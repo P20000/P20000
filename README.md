@@ -1,6 +1,6 @@
-# 👋 Hello, I'm P20000
+# I am Pranav Dwivedi
 
-## 🚀 Cloud & DevOps Enthusiast | Aspiring Engineer
+## Cloud & DevOps Enthusiast | Aspiring Engineer
 
 I'm a passionate and self-driven technologist with a keen interest in **DevOps**, **Cloud Engineering**, and **Software Development**. My journey in tech began early, diving into **Python** and **Web Development** at the age of 14, and building a solid foundation in low-level programming with **C**.
 
