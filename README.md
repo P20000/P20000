@@ -29,6 +29,18 @@ The skills I am actively developing and gaining proficiency in are organized bel
 
 ---
 
+## 📁 Featured Projects & Implementations
+
+<p align="center">
+  <a href="https://github.com/P20000/Relmonition">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=P20000&repo=Relmonition&theme=dracula" alt="Relmonition Repo" height="120" />
+  </a>
+  <a href="https://github.com/P20000/Omni-map">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=P20000&repo=Omni-map&theme=dracula" alt="Omni-map Repo" height="120" />
+  </a>
+</p>
+
+
 ### ⚙️ DevOps & Automation
 | **CI/CD** | **Configuration Management** | **IaC** | **Monitoring & VCS** |
 | :---: | :---: | :---: | :---: |
