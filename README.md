@@ -8,25 +8,6 @@ I'm currently focused on mastering the entire DevOps and Cloud Engineering suite
 
 ---
 
-<table>
-  <tr>
-    <td width="50%" align="center"><b>Repository Performance Stats (Last 28 Days)</b></td>
-    <td width="50%" align="center"><b>Active Contributors (Last 28 Days)</b></td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://ossinsight.io/analyze/P20000">
-        <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?user_id=55848248&image_size=auto" alt="Repository Performance Stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://ossinsight.io/analyze/P20000">
-        <img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?user_id=55848248&limit=100&image_size=auto" alt="Active Contributors" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 ## My Current Tech Stack & Knowledge
 
 The skills I am actively developing and gaining proficiency in are organized below:
