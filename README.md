@@ -54,3 +54,5 @@ My primary focus is deepening my expertise in **C++** for performance-critical a
 * **Container Orchestration**: Production-level deployment and management with **Kubernetes**.
 
 ---
+
+[![Pranav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=P20000&theme=dracula)](https://github.com/P20000)
