@@ -17,14 +17,13 @@ The skills I am actively developing and gaining proficiency in are organized bel
 | :---: | :---: | :---: | :---: |
 | **AWS** | **Docker** | **Kubernetes** | **Amazon S3** |
 | Google Cloud | Linux | Amazon EC2 | Amazon ELB |
-| Azure | Hadoop (HDFS) | | AWS CloudShell |
+| Azure | | | AWS CloudShell |
 
 ### DevOps & Automation
 | **CI/CD** | **Configuration Management** | **IaC** | **Monitoring & VCS** |
 | :---: | :---: | :---: | :---: |
 | **Jenkins** | **Ansible** | **Terraform** | **Git / GitHub** |
-| DevOps Methodology | Chef | | Nagios |
-| | Puppet | | |
+| DevOps Methodology | | | |
 
 ### Programming & Data Tools
 | **Languages** | **Data Science** |
@@ -32,7 +31,6 @@ The skills I am actively developing and gaining proficiency in are organized bel
 | **Python** | **NumPy** |
 | C | Jupyter |
 | (Currently Learning) C++ | |
-
 ---
 
 ## 🌱 Currently Learning
