@@ -33,7 +33,8 @@ The skills I am actively developing and gaining proficiency in are organized bel
 | **CI/CD** | **Configuration Management** | **IaC** | **Monitoring & VCS** |
 | :---: | :---: | :---: | :---: |
 | **Jenkins** | **Ansible** | **Terraform** | **Git / GitHub** |
-| DevOps Methodology | | CloudFormation | |
+| **GitHub Actions** | | CloudFormation | |
+| DevOps Methodology | | | |
 
 ### 🛠️ Programming Languages
 | **Core Languages** | **Actively Mastering** |
