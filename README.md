@@ -8,6 +8,25 @@ I'm currently focused on mastering the entire DevOps and Cloud Engineering suite
 
 ---
 
+<table>
+  <tr>
+    <td width="50%" align="center"><b>Currently Working On (Last 28 Days)</b></td>
+    <td width="50%" align="center"><b>Contribution Distribution Matrix</b></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://ossinsight.io/analyze/P20000">
+        <img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=55848248&image_size=auto" alt="Currently Working On" />
+      </a>
+    </td>
+    <td>
+      <a href="https://ossinsight.io/analyze/P20000">
+        <img src="https://next.ossinsight.io/widgets/official/user-contribution-time-distribution/thumbnail.png?user_id=55848248&image_size=auto" alt="Contribution Distribution" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## My Current Tech Stack & Knowledge
 
 The skills I am actively developing and gaining proficiency in are organized below:
@@ -28,15 +47,6 @@ The skills I am actively developing and gaining proficiency in are organized bel
 * **Application Integration & Events:** SQS, SNS, EventBridge
 
 ---
-
-## 📁 Featured Projects & Implementations
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P20000&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="165" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=P20000&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="165" />
-</p>
-
 
 ### ⚙️ DevOps & Automation
 | **CI/CD** | **Configuration Management** | **IaC** | **Monitoring & VCS** |
